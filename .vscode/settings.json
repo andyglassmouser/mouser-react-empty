@@ -1,0 +1,4 @@
+{
+  "window.title": "${dirty}react-empty${separator}${activeEditorShort}",
+  "editor.tabSize": 2
+}
